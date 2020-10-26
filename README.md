@@ -24,11 +24,12 @@ The following **extensions** are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
+Here's a walkthrough of map creation:
 <img src='https://github.com/danielletang/CS194A-assignment2/blob/main/gif1.gif' title='Create a Map' width='' alt='Video Walkthrough' />
-<img src='https://github.com/danielletang/CS194A-assignment2/blob/main/gif2.gif' title='View Saved Maps' width='' alt='Video Walkthrough' />
+A walkthrough of error handling in map creation:
 <img src='https://github.com/danielletang/CS194A-assignment2/blob/main/gif3.gif' title='Error Handling' width='' alt='Video Walkthrough' />
+A walkthrough of viewing saved maps:
+<img src='https://github.com/danielletang/CS194A-assignment2/blob/main/gif2.gif' title='View Saved Maps' width='' alt='Video Walkthrough' />
 
 GIF created with [EZGIF](https://ezgif.com/video-to-gif/).
 
